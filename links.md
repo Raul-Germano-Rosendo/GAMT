@@ -1,5 +1,3 @@
-# Recursos de Estudo
-
 > ## Vídeos
 > - [GTMax3D](http://www.youtube.com/@GTMax3DImpressoras3D)
 > - [FELIPE CARLOS | 3D & MAKER](http://www.youtube.com/@felipecspereira)

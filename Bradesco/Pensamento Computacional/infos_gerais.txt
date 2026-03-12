@@ -1,0 +1,37 @@
+ - Pensamento Computacional
+
+## O que é?
+Habilidade de resolver problemas usando conceitos da computação, organizando dados e criando soluções lógicas. É um processo mental que vai além da programação: trata-se de uma forma de pensar estruturada que nos ajuda a entender problemas complexos e decompô-los em partes gerenciáveis. É uma competência fundamental para o século XXI, aplicável não apenas na tecnologia, mas em qualquer área do conhecimento que envolva resolução de problemas.
+
+## Pilares Principais:
+1. Decomposição - Dividir problemas em partes menores
+   • Exemplo: Para resolver um problema de trânsito, dividir em: rotas, sinais, velocidades, etc.
+   
+2. Reconhecimento de Padrões - Identificar similaridades
+   • Exemplo: Notar que processos de diferentes áreas seguem a mesma lógica de sequência
+   
+3. Abstração - Focar no essencial, ignorar detalhes irrelevantes
+   • Exemplo: Entender um algoritmo de busca sem se preocupar com a linguagem de programação específica
+   
+4. Algoritmos - Criar sequências de passos para resolver problemas
+   • Exemplo: Descrever passo a passo como fazer um bolo, como encontrar um livro em uma biblioteca
+
+## Benefícios:
+- Melhora tomada de decisão: Estruturar o pensamento permite avaliar opções com mais clareza
+- Desenvolve criatividade: Ao decompor problemas, abrimos espaço para soluções inovadoras
+- Aumenta capacidade de resolver problemas complexos: Transforma desafios aparentemente impossíveis em tarefas gerenciáveis
+- Aplicável em qualquer área do conhecimento: Desde medicina até gestão empresarial
+- Melhora eficiência: Evita desperdício de tempo com abordagens desorganizadas
+- Fortalece raciocínio lógico: Expande a capacidade cognitiva e mental
+
+## Aplicações:
+- Desenvolvimento de software: Criar programas eficientes e bem estruturados
+- Análise de dados: Extrair padrões e insights de grandes volumes de informações
+- Criação de estratégias: Planejar ações em empresas, marketing, logística
+- Melhoria de processos: Identificar gargalos e otimizar fluxos de trabalho
+- Educação: Ensinar estudantes a pensar de forma crítica e organizada
+- Medicina: Diagnósticar doenças através de análise estruturada de sintomas
+- Gestão empresarial: Tomar decisões baseadas em dados e lógica estruturada
+
+## Conclusão:
+Essencial para o século XXI - pensamento lógico e estruturado para enfrentar desafios modernos.

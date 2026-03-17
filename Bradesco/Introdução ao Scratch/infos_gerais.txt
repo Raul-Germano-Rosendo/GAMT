@@ -1,0 +1,74 @@
+Introdução ao Scratch
+
+## Computação Criativa
+
+A computação criativa combina programação com expressão artística e criatividade.
+Permite usar ferramentas tecnológicas para criar arte, música, histórias e jogos.
+Scratch é uma plataforma ideal para explorar computação criativa de forma acessível.
+
+## Conhecendo a Plataforma Scratch
+
+Interface Principal:
+- Área de Blocos: biblioteca com todos os blocos disponíveis
+- Área de Scripts: onde você arrasta e conecta blocos
+- Visualizador: mostra o resultado do seu projeto em tempo real
+- Biblioteca de Sprites: personagens e objetos pré-feitos
+- Biblioteca de Sons: efeitos de áudio para seus projetos
+
+## Desenvolvendo Habilidades com Scratch
+
+Nível Iniciante:
+- Mover sprites em diferentes direções
+- Adicionar sons e músicas
+- Criar diálogos simples
+- Responder a cliques do mouse
+
+Nível Intermediário:
+- Implementar condições (if/else)
+- Usar variáveis para guardar informações
+- Criar loops (repetições)
+- Programar personagens interativos
+
+Nível Avançado:
+- Clonar sprites dinamicamente
+- Criar estruturas de dados complexas
+- Desenvolver jogos completos
+- Otimizar performance de projetos
+
+O que é Scratch?
+Scratch é uma linguagem de programação visual desenvolvida pelo MIT (Massachusetts Institute of Technology).
+Permite criar histórias interativas, jogos e animações através de blocos de código coloridos.
+Ideal para iniciantes, especialmente crianças e adolescentes.
+
+Características Principais:
+- Interface intuitiva baseada em blocos
+- Comunidade global de criadores
+- Projetos compartilháveis online
+- Sem necessidade de sintaxe complexa
+
+Conceitos Fundamentais:
+1. Sprites: personagens ou objetos que você faz se mover
+2. Palcos: o cenário onde as ações acontecem
+3. Blocos: comandos que formam a lógica do programa
+4. Scripts: sequências de blocos conectados
+
+Tipos de Blocos:
+- Movimento: deslocar sprites
+- Aparência: mudar visuais
+- Som: adicionar efeitos sonoros
+- Eventos: ações que desencadeiam eventos
+- Controle: lógica de repetição e condições
+- Sensores: detectar interações
+
+Primeiros Passos:
+1. Acessar scratch.mit.edu
+2. Criar uma conta
+3. Iniciar um novo projeto
+4. Explorar os blocos disponíveis
+5. Criar seu primeiro programa simples
+
+Benefícios do Aprendizado:
+- Desenvolvimento do pensamento lógico
+- Criatividade e imaginação
+- Resolução de problemas
+- Aprendizagem divertida e engajante

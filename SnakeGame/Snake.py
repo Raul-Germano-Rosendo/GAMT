@@ -201,7 +201,7 @@ class SnakeGame:
 
     def play_startup(self):
         print("Snake Acessível iniciado! Setas: mover | P: pause | Ouça os beeps!")
-        melody = [440, 554, 659, 880]
+        melody = [440, 554, 659, 880, 440]
         for f in melody:
             self.audio.play(f)  # Freq for melody
             pygame.time.wait(250)

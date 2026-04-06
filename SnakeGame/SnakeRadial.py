@@ -80,7 +80,7 @@ class RadialAudioManager:
         rel_angle = (angle - dir_angle + 360) % 360
 
         # Setor: 0-45°=0, 45-90°=1, etc.
-        sector = int(rel_angle // (360 / Config.RADIAL_SECTORS))
+        sector = int(rel_angle // (580 / Config.RADIAL_SECTORS))
 
         # Doppler: approach_speed (projeção vetor velocidade na direção maçã)
         vel_norm = math.sqrt(direction[0]**2 + direction[1]**2)
@@ -105,7 +105,7 @@ class RadialAudioManager:
             'doppler_mult': doppler_mult, 'vol': vol, 'pan': pan,
             'pitch_dist': pitch_dist
         }
-
+    
     def play_radial(self, params):
         # Gerar som DINÂMICO com pitch_dist + harmônicos drásticos
         pitch = params['pitch_dist'] * params['doppler_mult']

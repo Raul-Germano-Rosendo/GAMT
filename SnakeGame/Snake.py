@@ -252,20 +252,7 @@ class SnakeGame:
             self.cobra.pop()
 
         self.audio.queue_play('move')
-
-        # Som dinâmico sempre - mais alto se próximo da maçã
-        dist = ((nova_cabeca[0] - self.maca[0])**2 + (nova_cabeca[1] - self.maca[1])**2)**0.5
-        max_dist = (Config.LARGURA**2 + Config.ALTURA**2)**0.5
-        vol_base = max(0.1, 1.0 - dist / max_dist)
         
-        # Alignment + vol dinâmico
-        if nova_cabeca[0] == self.maca[0]:
-            self.audio.sounds['som_x'].set_volume(vol_base * 1.5)
-            self.audio.queue_play('som_x')
-        if nova_cabeca[1] == self.maca[1]:
-            self.audio.sounds['som_y'].set_volume(vol_base * 1.5)
-            self.audio.queue_play('som_y')
-
         self.check_warnings()
         if self.feedback_timer % Config.FEEDBACK_INTERVALO == 0:
             self.spatial_feedback()

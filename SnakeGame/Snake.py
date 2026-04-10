@@ -10,11 +10,11 @@ class Config:
     LARGURA = 600
     ALTURA = 600
     TAMANHO = 20
-    FPS_INICIAL = 3
+    FPS_INICIAL = 1
     FPS_MAX = 12
     SCORE_POR_MACA = 10
     VELOCIDADE_AUMENTO = 50  # pontos para aumentar FPS
-    FEEDBACK_INTERVALO = 40  # frames
+    FEEDBACK_INTERVALO = 50  # frames
     HIGH_SCORE_FILE = 'high_score.pkl'
 
     CORES = {
